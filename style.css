@@ -41,6 +41,10 @@ html{
     text-decoration: none;
     color: white;
   }
+ .more a{
+   text-decoration:none;
+   color: white;
+ }
   .menu div{
     font-size: 18px;
     padding: 0.1cm;
